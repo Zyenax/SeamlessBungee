@@ -1,0 +1,7 @@
+name: SeamlessBungee
+main: net.seamless.main.Main
+version: 1.0
+author: Snickzz
+commands:
+  addserver:
+    description: Add a server to the bungeecord config!
